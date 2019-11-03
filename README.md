@@ -5,6 +5,7 @@ sqlalchemy CRUD operations and pure python-alchemy webserver.
 ## Prerequisites
 
 - Python
+- Python modules: http.server, cgi
 - SQL
 - SQLAlchemy
 
